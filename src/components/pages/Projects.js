@@ -2,7 +2,7 @@ import styles from './Projects.module.css'
 import LinkButton from '../layouts/LinkButton'
 import Container from '../layouts/Container'
 import { useLocation } from 'react-router-dom'
-import Message from '../layouts/Message'
+import Message from '../layouts/Message' 
 
 
 
